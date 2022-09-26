@@ -105,3 +105,7 @@ myFunction()
 </button>;
 // js  event exercise 3
 <div onmouseover="this.style.backgroundColor='red'">myDIV.</div>;
+// js string exercise 1
+let txt = "Hello World!";
+let x = txt.length;
+alert(x);
