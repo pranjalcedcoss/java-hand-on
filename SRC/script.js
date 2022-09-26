@@ -25,3 +25,7 @@ alert(15 % 9);
 x = 10;
 y = 5;
 x += y;
+// js operators exercise 5
+x = 10;
+y = 5;
+x *= y;
