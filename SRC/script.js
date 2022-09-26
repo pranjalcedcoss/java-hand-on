@@ -58,3 +58,11 @@ function myFunction() {
      "Hello";
     }
     document.getElementById("demo").innerHTML = myFunction();
+    // js function exercise 4
+    function myFunction() {
+        document.
+      getelementbyId
+      ("demo").
+      innerHTML
+       = "Hello";
+      }
