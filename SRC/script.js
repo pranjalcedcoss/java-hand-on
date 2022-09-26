@@ -152,3 +152,8 @@ let txt = "Hello World";
 txt = 
 txt.toUpperCase()
 ;
+// Js string method exercise 5
+txt = "Hello World";
+txt = 
+txt.toLowerCase()
+;
