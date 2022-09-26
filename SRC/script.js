@@ -69,3 +69,10 @@ const person = {
 };
 
 alert(person.firstName);
+//js object exercise
+
+const person = {
+  firstName: "John",
+  lastName: "Doe",
+  country: "Norway",
+};
