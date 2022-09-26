@@ -46,3 +46,7 @@ function myFunction() {
   alert("Hello World!");
 }
 myFunction();
+// js function exercise 2
+function myFunction() {
+  alert("Hello World!");
+}
