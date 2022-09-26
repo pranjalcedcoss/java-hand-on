@@ -141,3 +141,8 @@ let x = txt.slice(
 , 
 17
 );}
+// Js string method exercise 3 
+let txt = "Hello World";
+txt = txt.
+replace
+("Hello", "Welcome");
