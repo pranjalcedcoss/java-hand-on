@@ -146,3 +146,9 @@ let txt = "Hello World";
 txt = txt.
 replace
 ("Hello", "Welcome");
+
+// Js string method exercise 4
+let txt = "Hello World";
+txt = 
+txt.toUpperCase()
+;
