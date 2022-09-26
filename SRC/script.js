@@ -103,3 +103,5 @@ myFunction()
 >
   Click me.
 </button>;
+// js  event exercise 3
+<div onmouseover="this.style.backgroundColor='red'">myDIV.</div>;
