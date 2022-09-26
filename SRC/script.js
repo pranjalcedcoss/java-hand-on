@@ -15,3 +15,5 @@ alert(z);
 var firstName = "John",
   lastName = "Doe",
   age = 35;
+// js operators exercise 1
+alert(10 * 5);
