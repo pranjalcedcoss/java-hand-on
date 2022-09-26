@@ -132,3 +132,12 @@ let txt = "Hello World!";
 txt = txt.
 toUpperCase()
 ;
+{// Js string method exercise 2
+
+
+let txt = "I can eat bananas all day";
+let x = txt.slice(
+10
+, 
+17
+);}
