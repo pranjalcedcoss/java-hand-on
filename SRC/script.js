@@ -50,3 +50,11 @@ myFunction();
 function myFunction() {
   alert("Hello World!");
 }
+
+
+function myFunction() {
+//   js function exercise 3
+    return
+     "Hello";
+    }
+    document.getElementById("demo").innerHTML = myFunction();
