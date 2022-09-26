@@ -75,7 +75,7 @@ alert(person.firstName);
     age: 50,
   };
   alert(person.name + " is " + person.age);
-// js object exercise 2
+  // js object exercise 2
   const person = {
     firstName: "John",
     lastName: "Doe",
@@ -93,3 +93,5 @@ const person = {
   age: 50,
 };
 alert(person.name + " is " + person.age);
+// js event exercise 1
+<button onclick="alert('Hello')">Click me.</button>;
