@@ -116,3 +116,19 @@ let txt = "
 We are \"Vikings\"
 ";
     alert(txt);}
+{// js string exercise 2
+
+    let str1 = "Hello ";
+let str2 = "World!";
+alert(
+str1
+ 
++
+ 
+str2
+);}
+// Js string method exercise 1
+let txt = "Hello World!";
+txt = txt.
+toUpperCase()
+;
