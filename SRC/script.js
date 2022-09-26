@@ -51,18 +51,21 @@ function myFunction() {
   alert("Hello World!");
 }
 
-
 function myFunction() {
-//   js function exercise 3
-    return
-     "Hello";
-    }
-    document.getElementById("demo").innerHTML = myFunction();
-    // js function exercise 4
-    function myFunction() {
-        document.
-      getelementbyId
-      ("demo").
-      innerHTML
-       = "Hello";
-      }
+  //   js function exercise 3
+  return;
+  ("Hello");
+}
+document.getElementById("demo").innerHTML = myFunction();
+// js function exercise 4
+function myFunction() {
+  document.getelementbyId("demo").innerHTML = "Hello";
+}
+//   js object exercise 1
+
+const person = {
+  firstName: "John",
+  lastName: "Doe",
+};
+
+alert(person.firstName);
