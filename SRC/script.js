@@ -41,3 +41,8 @@ const x = {
   lastName: "Doe",
 }; //
 object;
+// js function exercise 1
+function myFunction() {
+  alert("Hello World!");
+}
+myFunction();
