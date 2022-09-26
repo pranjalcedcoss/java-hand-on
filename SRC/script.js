@@ -20,5 +20,8 @@ alert(10 * 5);
 // js operators exercise 2
 alert(10 / 2);
 // js operators exercise 3
-
 alert(15 % 9);
+// js operators exercise 4
+x = 10;
+y = 5;
+x += y;
