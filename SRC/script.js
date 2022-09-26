@@ -95,3 +95,11 @@ const person = {
 alert(person.name + " is " + person.age);
 // js event exercise 1
 <button onclick="alert('Hello')">Click me.</button>;
+// js  event exercise 2
+<button
+  onclick="
+myFunction()
+"
+>
+  Click me.
+</button>;
