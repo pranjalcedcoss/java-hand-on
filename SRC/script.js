@@ -69,10 +69,27 @@ const person = {
 };
 
 alert(person.firstName);
-//js object exercise
-
+{
+  const person = {
+    name: "John",
+    age: 50,
+  };
+  alert(person.name + " is " + person.age);
+// js object exercise 2
+  const person = {
+    firstName: "John",
+    lastName: "Doe",
+    country: "Norway",
+  };
+}
+// js object exercise 3
 const person = {
-  firstName: "John",
-  lastName: "Doe",
-  country: "Norway",
+  name: "John",
+  age: 50,
 };
+alert(person.name + " is " + person.age);
+const person = {
+  name: "John",
+  age: 50,
+};
+alert(person.name + " is " + person.age);
