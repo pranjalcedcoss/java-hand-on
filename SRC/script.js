@@ -17,3 +17,5 @@ var firstName = "John",
   age = 35;
 // js operators exercise 1
 alert(10 * 5);
+// js operators exercise 2
+alert(10 / 2);
