@@ -213,4 +213,8 @@ setFullYear(2020)
 // js math exercise 1
 let r = 
 Math.random()
-;
+// js math exercise 2
+
+let x = 
+Math.max
+(10, 20);
