@@ -205,3 +205,8 @@ const d = new Date();
 month = 
 d.getMonth()
 ;
+// js date exercise 4
+const d = new Date();
+d.
+setFullYear(2020)
+;
