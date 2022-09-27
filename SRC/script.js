@@ -292,3 +292,16 @@ case
     alert("Welcome")
     break;    
 }
+// js switch exercise 2
+switch(fruits) {
+  case "Banana":
+    alert("Hello")
+    break;
+  case "Apple":
+    alert("Welcome")
+    break;
+  
+default:
+
+    alert("Neither");
+}
