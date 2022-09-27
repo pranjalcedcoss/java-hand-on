@@ -210,3 +210,7 @@ const d = new Date();
 d.
 setFullYear(2020)
 ;
+// js math exercise 1
+let r = 
+Math.random()
+;
