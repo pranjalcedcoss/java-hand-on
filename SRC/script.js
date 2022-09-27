@@ -265,4 +265,15 @@ x > y
 {
   alert("Hello World");
 }
+// js condition exercise 2
 
+if
+ (x 
+>
+ y) {
+  alert("Hello World");
+} 
+else
+ {
+  alert("Goodbye");
+}
