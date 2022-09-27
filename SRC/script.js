@@ -185,3 +185,7 @@ fruits.splice(
 , 
 2
 );
+// js array sort exercise 1
+const fruits = ["Banana", "Orange", "Apple", "Kiwi"];
+fruits.sort()
+;
