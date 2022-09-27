@@ -200,3 +200,8 @@ const d = new Date();
 year = 
 d.getFullYear()
 ;
+// js date exercise 3
+const d = new Date();
+month = 
+d.getMonth()
+;
