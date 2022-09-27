@@ -338,3 +338,17 @@ while
  console.log(i);
  i++
 }
+//  js while loops exercise 2
+let i = 0;
+while (i < 10) {
+  console.log(i);
+  
+i
+ = 
+i
+ 
++
+ 
+2
+;
+}
