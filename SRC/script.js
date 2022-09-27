@@ -178,3 +178,10 @@ fruits.pop()
 const fruits = ["Banana", "Orange", "Apple"];
 fruits.push("Kiwi")
 ;
+// js array method exercise 3
+const fruits = ["Banana", "Orange", "Apple", "Kiwi"];
+fruits.splice(
+1
+, 
+2
+);
