@@ -369,3 +369,10 @@ break
 document.getElementById("demo").innerHTML
  = "Hello";
 </script> 
+// Js html dom exercise 2
+<p id="demo"></p>
+
+<script>
+document.getElementsByTagName("p")[0].innerHTML
+ = "Hello";
+</script>
