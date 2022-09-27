@@ -352,3 +352,12 @@ i
 2
 ;
 }
+// js break loops exercise 1
+for (i = 0; i < 10; i++) {
+  console.log(i);
+  if (i == 5) {
+    
+break
+;
+  }
+}
