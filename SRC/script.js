@@ -162,4 +162,8 @@ const cars = ["Saab", "Volvo", "BMW"];
 let x = 
 cars[1]
 ;
+// js array exercise 2
+const cars = ["Volvo", "Jeep", "Mercedes"];
+cars[0]
+ 
 
