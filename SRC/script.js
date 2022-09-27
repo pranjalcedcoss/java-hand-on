@@ -247,3 +247,13 @@ y = 5;
 alert(x 
 !=
  y);
+//  js comparison exercise 4
+var age = n;
+var voteable = (age 
+<
+ 18) 
+?
+ "Too young" 
+:
+ "Old enough";
+alert(voteable);
