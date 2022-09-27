@@ -257,3 +257,12 @@ var voteable = (age
 :
  "Old enough";
 alert(voteable);
+// js condition exercise 1
+if 
+(
+x > y
+)
+{
+  alert("Hello World");
+}
+
