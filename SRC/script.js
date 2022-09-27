@@ -305,3 +305,19 @@ default:
 
     alert("Neither");
 }
+// js for loop exercise 1
+let i;
+for
+ (
+i
+ = 
+0
+; 
+i
+ < 
+10
+; 
+i++
+) {
+  console.log(i);
+}
