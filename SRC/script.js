@@ -194,3 +194,9 @@ const d =
 new Date()
 ;
 alert(d);
+// js date exercise 2
+
+const d = new Date();
+year = 
+d.getFullYear()
+;
