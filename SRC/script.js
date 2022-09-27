@@ -368,4 +368,11 @@ break
 
 <script>
 document.getElementsByClassName("test")[0].innerHTML
- = "Hello";
+  {/*  Js html dom exercise 3 */}
+<img id="image" src="smiley.gif">
+
+<script>
+document.getElementById("image")
+.src
+ = "pic_mountain.jpg";
+</script>
