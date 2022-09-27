@@ -165,5 +165,9 @@ cars[1]
 // js array exercise 2
 const cars = ["Volvo", "Jeep", "Mercedes"];
 cars[0]
- 
+// js array exercise 3 
+const cars = ["Volvo", "Jeep", "Mercedes"];
+alert(
+cars.length
+);
 
