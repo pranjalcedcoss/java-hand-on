@@ -223,3 +223,8 @@ Math.max
 let x = Math.
 round
 (5.3);
+// js math exercise 4
+
+let x = Math.
+sqrt(9)
+;
