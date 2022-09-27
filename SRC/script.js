@@ -174,3 +174,7 @@ cars.length
 const fruits = ["Banana", "Orange", "Apple"];
 fruits.pop()
 ;
+// js array method exercise 2 
+const fruits = ["Banana", "Orange", "Apple"];
+fruits.push("Kiwi")
+;
