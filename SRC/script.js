@@ -235,3 +235,9 @@ y = 5;
 alert(x 
 >
  y);
+// js comparison exercise 2 
+x = 10;
+y = 10;
+alert(x 
+==
+ y);
