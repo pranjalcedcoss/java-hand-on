@@ -361,18 +361,11 @@ break
 ;
   }
 }
-// Js html dom exercise 1
+// Js html dom exercise 3
 
-<p id="demo"></p>
-
-<script>
-document.getElementById("demo").innerHTML
- = "Hello";
-</script> 
-// Js html dom exercise 2
-<p id="demo"></p>
+<p class="test"></p>
+<p class="test"></p>
 
 <script>
-document.getElementsByTagName("p")[0].innerHTML
+document.getElementsByClassName("test")[0].innerHTML
  = "Hello";
-</script>
