@@ -218,3 +218,8 @@ Math.random()
 let x = 
 Math.max
 (10, 20);
+// js math exercise 3
+
+let x = Math.
+round
+(5.3);
