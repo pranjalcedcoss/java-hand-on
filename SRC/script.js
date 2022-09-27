@@ -157,3 +157,9 @@ txt = "Hello World";
 txt = 
 txt.toLowerCase()
 ;
+// js array exercise 1
+const cars = ["Saab", "Volvo", "BMW"];
+let x = 
+cars[1]
+;
+
