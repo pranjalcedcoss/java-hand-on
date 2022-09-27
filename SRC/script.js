@@ -228,3 +228,10 @@ round
 let x = Math.
 sqrt(9)
 ;
+// js comparison exercise 1
+
+x = 10;
+y = 5;
+alert(x 
+>
+ y);
